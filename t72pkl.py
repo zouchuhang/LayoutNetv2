@@ -7,7 +7,7 @@ import scipy.io as sio
 import pickle
 import time
 
-data_path = './data/train_stanford/'
+data_path = './data/test_PC/'
 
 # panoContext
 #img_tr = torchfile.load('./data/panoContext_img_train.t7')
