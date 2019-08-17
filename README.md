@@ -5,6 +5,7 @@ Original Torch implementation for LayoutNet is [here](https://github.com/zouchuh
 
 ## Improvements upon LayoutNet
 - Extend to general Manhattan layout (on our newly labeled [Matterport3D dataset]())
+- Use ResNet encoder instead of SegNet encoder
 - Training details and implementation details
 - Gradient ascent based post optimization, revised from sunset1995's PyTorch [implementation](https://github.com/sunset1995/pytorch-layoutnet)
 - Add [random stretching](https://github.com/sunset1995/HorizonNet) data augmentation
