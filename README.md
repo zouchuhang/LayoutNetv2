@@ -1,5 +1,5 @@
-# LayoutNetv2
-PyTorch implementation for LayoutNetv2.
+# LayoutNet v2
+PyTorch implementation for LayoutNet v2.
 
 Original Torch implementation for LayoutNet is [here](https://github.com/zouchuhang/LayoutNet).
 
