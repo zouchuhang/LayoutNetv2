@@ -4,7 +4,7 @@ PyTorch implementation for LayoutNetv2.
 Original Torch implementation for LayoutNet is [here](https://github.com/zouchuhang/LayoutNet).
 
 ## Improvements upon LayoutNet
-- Extend to general Manhattan layout (on our newly labeled [Matterport3D dataset]())
+- Extend to general Manhattan layout (on our newly labeled Matterport3D dataset (comming soon))
 - Use ResNet encoder instead of SegNet encoder
 - Training details and implementation details
 - Gradient ascent based post optimization, revised from sunset1995's PyTorch [implementation](https://github.com/sunset1995/pytorch-layoutnet)
@@ -22,7 +22,7 @@ Original Torch implementation for LayoutNet is [here](https://github.com/zouchuh
 - Download [pre-processed PanoContext and Stanford 2D-3D dataset in .pkl form](https://drive.google.com/drive/folders/1s_uPGrTW_9It-grehVFi1j5DkqZag2Cv?usp=sharing) and put them under the ./data/ folder.
 - Download gt from original [LayoutNet](https://github.com/zouchuhang/LayoutNet/tree/master/data) and the processed one by [sunset1995](https://drive.google.com/file/d/1e-MuWRx3T4LJ8Bu4Dc0tKcSHF9Lk_66C/view) and put them under the ./data/ folder
 - (Optional) Download original LayoutNet's .t7 [file](https://drive.google.com/file/d/1400fSLme70jnTnsmkPk4YLDAtQA0mgTP/view) and put them under the ./data/ folder
-- Download our newly labeled [Matterport3D dataset]() and put them under the ./data/ folder.
+- Download our newly labeled Matterport3D dataset (comming soon) and put them under the ./data/ folder.
 - Download [pre-computed depth maps](https://drive.google.com/file/d/1V85M_uQF9oULas_UU7AHXyJnJrjcXzEb/view?usp=sharing) from our models trained on Matterport3D dataset and put them under the current folder. 
 
 ## Preporcess
