@@ -5,7 +5,7 @@ PyTorch implementation for LayoutNet v2 in the paper:
 
 https://arxiv.org/pdf/1910.04099.pdf
 
-<img src='figs/teasor.jpg' width=400>
+<img src='figs/teasor.png' width=700>
 
 Original Torch implementation for LayoutNet is [here](https://github.com/zouchuhang/LayoutNet).
 
