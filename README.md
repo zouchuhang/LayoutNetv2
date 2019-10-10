@@ -2,6 +2,10 @@
 PyTorch implementation for LayoutNet v2 in [paper](https://arxiv.org/pdf/1910.04099.pdf): 3D Manhattan Room Layout Reconstruction from a Single 360◦ Image
 
 Original Torch implementation for LayoutNet is [here](https://github.com/zouchuhang/LayoutNet).
+You may also be interested in the source code of the methods for comparison in the paper:
+
+[DuLa-Net](https://github.com/SunDaDenny/DuLa-Net)
+[HorizonNet](https://github.com/sunset1995/HorizonNet)
 
 ## Improvements upon LayoutNet
 - Extend to general Manhattan layout (on our newly labeled Matterport3D dataset (comming soon))
