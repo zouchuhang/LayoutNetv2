@@ -76,3 +76,14 @@ You may also be interested in the source code of the methods for comparison in t
     ```
     Rendered depth maps will be saved to folder ./result\_gen\_depth/.
     Then comment out L313-L314 in test\_matterport.py, uncomment lines related to evaluation for depth, and run test\_matterport.py again
+    
+## Citation
+Please cite our paper for any purpose of usage.
+```
+@article{zou20193d,
+  title={3D Manhattan Room Layout Reconstruction from a Single 360 Image},
+  author={Zou, Chuhang and Su, Jheng-Wei and Peng, Chi-Han and Colburn, Alex and Shan, Qi and Wonka, Peter and Chu, Hung-Kuo and Hoiem, Derek},
+  journal={arXiv preprint arXiv:1910.04099},
+  year={2019}
+}
+```
