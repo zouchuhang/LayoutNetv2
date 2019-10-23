@@ -6,9 +6,8 @@ PyTorch implementation for LayoutNet v2 in the paper:
 https://arxiv.org/pdf/1910.04099.pdf
 
 ```diff
-- **New:** 
+- **New:** Our [MatterportLayout](https://github.com/ericsujw/Matterport3DLayoutAnnotation) Annotation dataset is released!
 ```
-Our [MatterportLayout](https://github.com/ericsujw/Matterport3DLayoutAnnotation) Annotation dataset is released!
 
 <img src='figs/teasor.png' width=700>
 
