@@ -1,7 +1,7 @@
 # LayoutNet v2
-PyTorch implementation for LayoutNet v2 in the paper: 
+PyTorch implementation for LayoutNet v2 in the IJCV paper: 
 
-### **3D Manhattan Room Layout Reconstruction from a Single 360 Image**
+### **Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods**
 
 https://arxiv.org/pdf/1910.04099.pdf
 
