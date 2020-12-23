@@ -1,5 +1,5 @@
 # LayoutNet v2
-PyTorch implementation of the IJCV paper: 
+PyTorch implementation of our IJCV paper: 
 
 ### **Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods**
 
