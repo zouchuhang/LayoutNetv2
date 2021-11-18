@@ -80,10 +80,14 @@ Original Torch implementation for LayoutNet is [here](https://github.com/zouchuh
 ## Citation
 Please cite our paper for any purpose of usage.
 ```
-@article{zou20193d,
-  title={3D Manhattan Room Layout Reconstruction from a Single 360 Image},
+@article{zou2021manhattan,
+  title={Manhattan Room Layout Reconstruction from a Single $ $360\^{}$\{$$\backslash$circ$\}$ $$360∘ Image: A Comparative Study of State-of-the-Art Methods},
   author={Zou, Chuhang and Su, Jheng-Wei and Peng, Chi-Han and Colburn, Alex and Shan, Qi and Wonka, Peter and Chu, Hung-Kuo and Hoiem, Derek},
-  journal={arXiv preprint arXiv:1910.04099},
-  year={2019}
+  journal={International Journal of Computer Vision},
+  volume={129},
+  number={5},
+  pages={1410--1431},
+  year={2021},
+  publisher={Springer}
 }
 ```
